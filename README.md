@@ -29,6 +29,11 @@ list is the public-facing index of the ecosystem.
   cfaS / capJ / pldA mutant screens, six clinical isolates) on two replicate slides. Exported as a
   queryable reference database for the organoid and tissue projects.
 
+- **[msi-gastroid-hp](https://github.com/benediktkgeier/msi-gastroid-hp)** *(private, under construction)* —
+  *H. pylori* microcolonies in gastric organoids: MALDI-2 MSI with reporter-microscopy registration,
+  bacterial vs host chemistry at the colony contact site, per organoid and within section. On hold until
+  new data.
+
 - **[organoid-msi-nearfield-citrate](https://github.com/benediktkgeier/organoid-msi-nearfield-citrate)** —
   Publication fork of the intestinal-organoid near-field citrate project (apical-out vs basolateral-out):
   MALDI-timsTOF MSI plus microscopy coregistration, in R.
@@ -41,7 +46,7 @@ list is the public-facing index of the ecosystem.
 
 - **[fmg85/PeakMe](https://github.com/fmg85/PeakMe)** *(Florian Geier)* —
   upstream R tool for manual on-tissue / off-tissue MSI peak annotation;
-  consumed by both `msi-gpcl` and `msi-bigmsi-hp`.
+  consumed by `msi-gpcl`, `msi-bigmsi-hp` and `msi-gastroid-hp`.
 
 ## Contact
 
